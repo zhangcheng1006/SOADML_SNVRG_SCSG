@@ -1,4 +1,4 @@
-# SOADML_SNVRG
+# SOADML_SNVRG_SCSG
 The course project for "Stochastic Optimization and Automatic Differentiation in Machine Learning" @ ENSAE
 
 __Authors: Cheng ZHANG & Shiwen XIA__
